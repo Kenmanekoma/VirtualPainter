@@ -25,8 +25,8 @@ git clone https://github.com/Kenmanekoma/VirtualPainter.git
 **Step 3:** Install all required libraries, some of which I had to do so as follows:
 ```
 pip install opencv-python
-```
-```
+
+
 pip install mediapipe
 ```
 **Step 4:** Make sure you have your video devices connected (e.g. Webcam, FaceTime HD Camera, etc.). Note: if you have multiple camera, you can change the value in  
