@@ -1,7 +1,7 @@
 # VirtualPainter
 Virtual Painter in python using autopy
 
-##Introduction
+Introduction
 ----
   This project enables users to digitally paint with their fingertips in the air. It is being created in Python 3.10 with MediaPipe and OpenCV. Here is the output.
   ![alt text](image/draw.gif)
@@ -28,9 +28,10 @@ pip install opencv-python
 ```
 pip install mediapipe
 ```
-**Step 4:** Make sure you have your video devices connected (e.g. Webcam, FaceTime HD Camera, etc.). Note: if you have multiple camera, you can change the value in code
-     ![alt text](image/Captureimage.PNG)
-     (0) zero is the default camera.
+**Step 4:** Make sure you have your video devices connected (e.g. Webcam, FaceTime HD Camera, etc.). Note: if you have multiple camera, you can change the value in  
+code. (0) zero is the default camera.
+    ![alt text](image/Captureimage.PNG)
+     
 
 **Step 5:** To run this code, simple press F5 OR use this command:
 ```
