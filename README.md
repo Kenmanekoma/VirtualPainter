@@ -34,7 +34,7 @@ code. (0) zero is the default camera.
 
  ![alt text](image/IMAGE.JPG)
  
-**Step 5:** To run this code, simple press F5 OR use this command:
+**Step 5:** To run this code, simply press F5 OR use this command:
 ```
 python VirtualPainter.py
 ```
