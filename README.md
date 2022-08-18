@@ -1,11 +1,11 @@
 # VirtualPainter
 Virtual Painter in python using autopy
 
-Introduction
+## Introduction
 
   This project enables users to digitally paint with their fingertips in the air. It is being created in Python 3.10 with MediaPipe and OpenCV. Here is the output.
   ![alt text](image/draw.gif)
---- 
+  
   
 ### How to run this code?
 
