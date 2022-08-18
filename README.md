@@ -31,6 +31,7 @@ pip install mediapipe
 ```
 **Step 4:** Make sure you have your video devices connected (e.g. Webcam, FaceTime HD Camera, etc.). Note: if you have multiple camera, you can change the value in  
 code. (0) zero is the default camera.
+
     ![alt text](image/Captureimage.PNG)
      
 
